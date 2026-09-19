@@ -22,9 +22,6 @@ car-sales-ds/
 ├── notebooks/
 │   ├── 01_car_sales_analysis.ipynb         # Part 1: Cleaning, EDA & insights
 │   └── 02_web_scraping_car_dealers.ipynb   # Part 2: Scraping, merging & hypothesis testing
-├── reports/
-│   ├── Final_Report.docx                   # Full project report
-│   └── report_part1.docx                   # Part 1 report
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -116,14 +113,6 @@ Run the notebooks in order:
 - Lower mileage vehicles tend to command higher prices
 - Dealership ratings show varying relationships with pricing strategies
 
----
-
-## Reports
-
-Detailed written reports are available in the `reports/` folder:
-
-- **Final_Report.docx** – Complete analysis covering both parts
-- **report_part1.docx** – Focused report for Part 1
 
 ---
 
