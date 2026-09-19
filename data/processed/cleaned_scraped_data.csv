@@ -1,0 +1,232 @@
+Company,Model,Mileage,Dealer_Name,Rating,Review Count,Price ($)
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Toyota,Venza LE,41453,Capital Toyota,4.8,1,31950.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Toyota,Venza LE,41453,Capital Toyota,4.8,1,31950.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Toyota,Venza LE,41453,Capital Toyota,4.8,1,31950.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
+GMC,Sierra 2500 Denali,23249,Mitch Smith Chevrolet,4.1,135,68993.0
+Ferrari,California T,7478,Ferrari Maserati Alfa Romeo of Fort Lauderdale,4.8,2,159900.0
+Mercedes-Benz,EQS 580 Base 4MATIC,6558,Mercedes-Benz of Salt Lake City,4.6,427,75799.0
+INFINITI,Q60 3.0t Red Sport 400,27086,INFINITI of Lexington,4.7,61,40974.0
+BMW,X5 PHEV xDrive45e,22255,BMW of Las Vegas,4.8,2,47882.0
+Porsche,Taycan Base,7025,Capital Volkswagen Volvo Porsche,4.9,1,112390.0
+Ferrari,Portofino M Base,1959,Twin Cities Performance,n/a,0,162373.75
+Honda,Civic Si Base,14864,Gwinnett Place Honda,4.8,3,30636.25
+Audi,A8 L 55,34874,Audi Richfield,4.3,13,59950.0
+Porsche,Taycan Base,5009,Porsche Bellevue,4.7,933,89995.0
+Rolls-Royce,Cullinan Cullinan,3651,Desert European Motorcars,4.8,298,162373.75
+Mercedes-Benz,AMG E 53 E 53 AMG,1233,Loeber Motors Mercedes-Benz,n/a,0,67397.0
+FIAT,500L Trekking,80367,Fullerton Auto Group,4.4,352,30636.25
+BMW,i4 Gran Coupe eDrive35,6715,BMW of Lancaster,4.7,190,42511.0
+Acura,ILX Base,12604,Johnson City Mazda,n/a,1,30636.25
+Mercedes-Benz,EQB 250 250 4D Sport Utility,2236,Mercedes-Benz of Eugene,4.7,94,49995.0
+Mercedes-Benz,AMG GT 53 AMG GT 53,4164,Isringhausen Imports,5.0,977,104900.0
+Audi,S4 Prestige-CERTIFIED,8548,Audi McKinney,n/a,6,51991.0
+Honda,Pilot 2WD EX-L 7 Passenger,10296,Yuma Honda,4.9,592,37998.0
+Mercedes-Benz,AMG E 53 E 53 AMG,2435,Loeber Motors Mercedes-Benz,n/a,0,66998.0
+Mercedes-Benz,AMG E 53 Base 4MATIC,25518,Mercedes-Benz of Scarborough,4.6,701,59546.0
